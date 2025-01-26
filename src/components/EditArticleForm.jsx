@@ -1,4 +1,3 @@
-// components/EditArticleForm.jsx
 import React from "react";
 
 function EditArticleForm({
